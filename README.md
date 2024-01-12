@@ -8,7 +8,6 @@
 
 ### Founded
 - [Goshen DAO](https://goshendao.com) - Head of Technology
-- [Heroes Uprising](https://heroesuprising.com) - Founder
 
 ### Building
 - [Crest](https://crest.goshendao.com)
